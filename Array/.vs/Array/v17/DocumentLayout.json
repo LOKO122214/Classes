@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Homelearning\\homework\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5542B62-500A-4AB4-A074-A519219AD231}|Array.csproj|c:\\users\\user\\desktop\\homelearning\\homework\\array\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5542B62-500A-4AB4-A074-A519219AD231}|Array.csproj|solutionrelative:arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5542B62-500A-4AB4-A074-A519219AD231}|Array.csproj|c:\\users\\user\\desktop\\homelearning\\homework\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5542B62-500A-4AB4-A074-A519219AD231}|Array.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homelearning\\homework\\Array\\ArrayList.cs",
+              "RelativeDocumentMoniker": "ArrayList.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homelearning\\homework\\Array\\ArrayList.cs",
+              "RelativeToolTip": "ArrayList.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:16:34.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homelearning\\homework\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homelearning\\homework\\Array\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:06:36.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
